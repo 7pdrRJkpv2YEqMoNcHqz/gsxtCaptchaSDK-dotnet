@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-sdk", "CSharp-sdk", "{CA7043B8-DF44-4107-9F4A-EBBF575409ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharpTest", "csharpTest\csharpTest.csproj", "{61628B66-EEF8-47B1-A336-EE97F9A0F7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yuduan.CSharp.Geetest", "Yuduan.CSharp.Geetest\Yuduan.CSharp.Geetest.csproj", "{770F0B17-0D5C-403C-ACB0-19680C5E2AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61628B66-EEF8-47B1-A336-EE97F9A0F7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61628B66-EEF8-47B1-A336-EE97F9A0F7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61628B66-EEF8-47B1-A336-EE97F9A0F7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61628B66-EEF8-47B1-A336-EE97F9A0F7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770F0B17-0D5C-403C-ACB0-19680C5E2AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770F0B17-0D5C-403C-ACB0-19680C5E2AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770F0B17-0D5C-403C-ACB0-19680C5E2AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770F0B17-0D5C-403C-ACB0-19680C5E2AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61628B66-EEF8-47B1-A336-EE97F9A0F7BE} = {CA7043B8-DF44-4107-9F4A-EBBF575409ED}
+		{770F0B17-0D5C-403C-ACB0-19680C5E2AFA} = {CA7043B8-DF44-4107-9F4A-EBBF575409ED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8006B1D1-AAB7-4E0D-A836-5C5334016BEC}
+	EndGlobalSection
+EndGlobal
